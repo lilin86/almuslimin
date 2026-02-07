@@ -1,0 +1,8 @@
+
+{
+  "name": "AlMuslimin: Universal Islamic Guidance",
+  "description": "A comprehensive educational platform for learning Quran, Tauhid, Fiqh, and Hadith, designed for both Muslims and seekers of knowledge.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
